@@ -1,0 +1,15 @@
+{
+  "name": "atomoize",
+  "version": "1.0.0",
+  "description": "creates atomic names",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atom"
+  ],
+  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "license": "MIT"
+}
