@@ -17,6 +17,6 @@
   "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "js-deep-equals": "^2.1.1"
+    "unchained-melody": "^1.0.1"
   }
 }
