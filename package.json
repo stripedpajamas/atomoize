@@ -1,6 +1,6 @@
 {
   "name": "atomoize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "creates atomic names",
   "main": "atomoize.js",
   "bin": "atomoize.js",
